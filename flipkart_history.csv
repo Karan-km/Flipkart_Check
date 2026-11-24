@@ -1,0 +1,45 @@
+timestamp,run,page_name,step,status,details
+2026-11-24 09:53:13,1,Dashboard page,Click Mobiles,SUCCESS,SUCCESS: clicked on Mobiles icon.
+2026-11-24 09:53:17,1,Mobiles page,Click the Apple product,SUCCESS,SUCCESS: clicked on the Apple product.
+2026-11-24 09:53:21,1,Apple products page,Click the device image,SUCCESS,SUCCESS: Device Details page opened. Title: Apple Bau At Store Online - Buy Apple Bau At Online at Best Price in India | Flipkart.com
+2026-11-24 09:53:25,1,Details page,Select the colour,SUCCESS,"SUCCESS: Colour option """" is available and selected."
+2026-11-24 09:53:28,1,Details page,Select the storage,SUCCESS,"SUCCESS: Storage option """" is available and selected."
+2026-11-24 09:53:32,1,Details page,Click Buy Now,SUCCESS,SUCCESS: clicked on Buy Now.
+2026-11-24 09:53:35,1,Login page,Enter the phone number,SUCCESS,SUCCESS: phone number 8483057288 entered in the login box.
+2026-11-24 09:53:39,1,Login page,Click Continue,SUCCESS,SUCCESS: clicked on Continue.
+2026-11-24 09:54:08,1,Otp confirmation page,Enter the OTP,SUCCESS,SUCCESS: OTP accepted.
+2026-11-24 09:54:11,1,Logout page,Check the image after login,SUCCESS,SUCCESS: the image after login is visible.
+2026-11-24 09:54:32,1,Logout page,Log out,SUCCESS,SUCCESS: logged out.
+2026-11-24 09:58:39,1,Dashboard page,Click Mobiles,SUCCESS,SUCCESS: clicked on Mobiles icon.
+2026-11-24 09:58:47,1,Mobiles page,Click the Apple product,SUCCESS,SUCCESS: clicked on the Apple product.
+2026-11-24 09:58:54,1,Apple products page,Click the device image,SUCCESS,SUCCESS: Device Details page opened. Title: Apple Bau At Store Online - Buy Apple Bau At Online at Best Price in India | Flipkart.com
+2026-11-24 09:59:02,1,Details page,Select the colour,SUCCESS,"SUCCESS: Colour option """" is available and selected."
+2026-11-24 09:59:09,1,Details page,Select the storage,SUCCESS,"SUCCESS: Storage option """" is available and selected."
+2026-11-24 09:59:17,1,Details page,Click Buy Now,SUCCESS,SUCCESS: clicked on Buy Now.
+2026-11-24 09:59:24,1,Login page,Enter the phone number,SUCCESS,SUCCESS: phone number 8483057288 entered in the login box.
+2026-11-24 09:59:32,1,Login page,Click Continue,SUCCESS,SUCCESS: clicked on Continue.
+2026-11-24 10:00:23,1,Otp confirmation page,Enter the OTP,SUCCESS,SUCCESS: OTP accepted.
+2026-11-24 10:00:31,1,Logout page,Check the image after login,SUCCESS,SUCCESS: the image after login is visible.
+2026-11-24 10:01:01,1,Logout page,Log out,SUCCESS,SUCCESS: logged out.
+2026-11-24 10:12:28,1,Dashboard page,Click Mobiles,SUCCESS,SUCCESS: clicked on Mobiles icon.
+2026-11-24 10:12:35,1,Mobiles page,Click the Apple product,SUCCESS,SUCCESS: clicked on the Apple product.
+2026-11-24 10:12:43,1,Apple products page,Click the device image,SUCCESS,SUCCESS: Device Details page opened. Title: Apple Bau At Store Online - Buy Apple Bau At Online at Best Price in India | Flipkart.com
+2026-11-24 10:12:50,1,Details page,Select the colour,SUCCESS,"SUCCESS: Colour option """" is available and selected."
+2026-11-24 10:12:58,1,Details page,Select the storage,SUCCESS,"SUCCESS: Storage option """" is available and selected."
+2026-11-24 10:13:05,1,Details page,Click Buy Now,SUCCESS,SUCCESS: clicked on Buy Now.
+2026-11-24 10:13:13,1,Login page,Enter the phone number,SUCCESS,SUCCESS: phone number 8483057288 entered in the login box.
+2026-11-24 10:13:21,1,Login page,Click Continue,SUCCESS,SUCCESS: clicked on Continue.
+2026-11-24 10:14:34,1,Otp confirmation page,Enter the OTP,FAILED,WARNING: the OTP page is still visible. The OTP may be wrong or expired.
+2026-11-24 10:14:34,1,Logout page,Check the image after login,SKIPPED,an earlier step failed
+2026-11-24 10:14:34,1,Logout page,Log out,SKIPPED,an earlier step failed
+2026-11-24 10:16:34,1,Dashboard page,Click Mobiles,SUCCESS,SUCCESS: clicked on Mobiles icon.
+2026-11-24 10:16:42,1,Mobiles page,Click the Apple product,SUCCESS,SUCCESS: clicked on the Apple product.
+2026-11-24 10:16:49,1,Apple products page,Click the device image,SUCCESS,SUCCESS: Device Details page opened. Title: Apple Bau At Store Online - Buy Apple Bau At Online at Best Price in India | Flipkart.com
+2026-11-24 10:16:57,1,Details page,Select the colour,SUCCESS,"SUCCESS: Colour option """" is available and selected."
+2026-11-24 10:17:05,1,Details page,Select the storage,SUCCESS,"SUCCESS: Storage option """" is available and selected."
+2026-11-24 10:17:12,1,Details page,Click Buy Now,SUCCESS,SUCCESS: clicked on Buy Now.
+2026-11-24 10:17:20,1,Login page,Enter the phone number,SUCCESS,SUCCESS: phone number 7020996734 entered in the login box.
+2026-11-24 10:17:27,1,Login page,Click Continue,SUCCESS,SUCCESS: clicked on Continue.
+2026-11-24 10:18:20,1,Otp confirmation page,Enter the OTP,FAILED,WARNING: the OTP page is still visible. The OTP may be wrong or expired.
+2026-11-24 10:18:20,1,Logout page,Check the image after login,SKIPPED,an earlier step failed
+2026-11-24 10:18:20,1,Logout page,Log out,SKIPPED,an earlier step failed
