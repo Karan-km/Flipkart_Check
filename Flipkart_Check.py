@@ -61,7 +61,7 @@ URL = "https://www.flipkart.com/"
 PHONE_NUMBER = "7020996734"
 
 WAIT_SECONDS = 20        # how long to wait for an element before scrolling
-AFTER_CLICK_WAIT = 6     # pause after every click / check, before the next element
+AFTER_CLICK_WAIT = 20     # pause after every click / check, before the next element
 OTP_BOX_PAUSE = 0.5      # short pause between the 6 OTP digit boxes
 MAX_SCROLLS = 60         # maximum scroll steps when looking through the page
 SCROLL_PAUSE = 2.0       # pause after each scroll step (slow, so you can watch it)
